@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "downtest", "downtest\downtest.vcxproj", "{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Debug|x64.ActiveCfg = Debug|x64
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Debug|x64.Build.0 = Debug|x64
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Debug|x86.Build.0 = Debug|Win32
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Release|x64.ActiveCfg = Release|x64
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Release|x64.Build.0 = Release|x64
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Release|x86.ActiveCfg = Release|Win32
+		{DFAC442D-8DD1-402D-A287-8DAFECAC98F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF5FE33-D0DA-48F6-A5A3-D210DF9B1090}
+	EndGlobalSection
+EndGlobal
